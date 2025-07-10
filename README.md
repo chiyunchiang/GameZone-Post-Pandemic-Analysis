@@ -2,20 +2,12 @@
 ## Table of Contents
 
 [Project Background](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#project-background)
-
-
 [Executive Summary](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#executive-summary)
-
 [Sales Trend and Growth Rate](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#sales-trend-and-growth-rate)
-
 [Key Product Performance](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#key-product-performance)
-
 [Customer Growth Rate and Repeat Purchase Trend](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#customer-growth-rate-and-repeat-purchase-trend)
-
 [Sales by Platforms and Channels](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#sales-by-platforms-and-channels)
-
 [Reccomandations](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#reccomandations)
-
 [Clarifying Questions, Assumptions, and Caveats](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#clarifying-questions-assumptions-and-caveats)
 
 
