@@ -14,7 +14,7 @@
 
 [Sales by Platforms and Channels](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#sales-by-platforms-and-channels)
 
-Reccomandations
+[Reccomandations](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#reccomandations)
 
 Clarifying Questions, Assumptions, and Caveats
 
