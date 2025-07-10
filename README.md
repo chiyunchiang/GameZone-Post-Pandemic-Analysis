@@ -26,42 +26,42 @@ Despite the rapid decline in 2021, the percentage of repeat customers increased 
 - After March 2021, when most physical stores reopened, sales decreased and remained low every month.
 - NA and EMEA contributed 80% of the sales, with NA having more than half of the sales.
 ## Key Product Performance
-Sales of most products increased during the pandemic. The PlayStation 5 Bundle increased by 364%, and the Lenovo IdeaPad by 207%.
-The gaming monitor, Nintendo Switch, PlayStation 5 Bundle, and Lenovo IdeaPad contributed 97% of the sales.
-The Nintendo Switch accounts for 48% of the order numbers.
-The gaming monitor accounts for 1.9 million (32%) of sales.
-Due to the price. The PlayStation 5 Bundle contributed 1.5 million (26%) to sales, accounting for only 4% of the order numbers. JBL Headset accounts for 20% of the order numbers, with only 2% of the total sales.
+- Sales of most products increased during the pandemic. The PlayStation 5 Bundle increased by 364%, and the Lenovo IdeaPad by 207%.
+- The gaming monitor, Nintendo Switch, PlayStation 5 Bundle, and Lenovo IdeaPad contributed 97% of the sales.
+- The Nintendo Switch accounts for 48% of the order numbers.
+- The gaming monitor accounts for 1.9 million (32%) of sales.
+- Due to the price. The PlayStation 5 Bundle contributed 1.5 million (26%) to sales, accounting for only 4% of the order numbers. JBL Headset accounts for 20% of the order numbers, with only 2% of the total sales.
 ## Customer Growth Rate and Repeat Purchase Trend
-GameZone's unique customers reached their peak of 12,000 in 2020, then decreased to 1500 in 2021.
-The repeat customer percentage decreased by 1% from 2019 to 2020 and then surged to 15% in 2021.
-2021 had the lowest number (1,500) of unique customers but also the highest repeat customer percentage (15%).
+- GameZone's unique customers reached their peak of 12,000 in 2020, then decreased to 1500 in 2021.
+- The repeat customer percentage decreased by 1% from 2019 to 2020 and then surged to 15% in 2021.
+- 2021 had the lowest number (1,500) of unique customers but also the highest repeat customer percentage (15%).
 ## Sales by Platforms and Channels
-The direct channel accounts for 85% (5.1 million) of the sales.
-The affiliate channel has the highest AOV ($319), whereas the email channel has the lowest at $187.
-The website accounts for 98% (5.9 million) of the sales, with AOV($303), while the app has 2% of total sales and AOV($74).
+- The direct channel accounts for 85% (5.1 million) of the sales.
+- The affiliate channel has the highest AOV ($319), whereas the email channel has the lowest at $187.
+- The website accounts for 98% (5.9 million) of the sales, with AOV($303), while the app has 2% of total sales and AOV($74).
 ## Reccomandations
-Maximizing Product Offering
-Expanding highly performing products: Increase the variations of the highly performing products category, such as gaming monitors, the Nintendo Switch, and PlayStation.
-Using a bundle sale: Pair unpopular products with high-performing ones, such as gaming monitors paired with a gaming mouse and a gaming headset.
- Customer Growth and Retention
-Introducing a loyalty programme: Target single-purchase customers with loyalty tier rewards and special offers to improve retention.
-Revitalize customer acquisition: By expanding acquisition channels, including various social media platforms and partnerships with influencers and celebrities.
-Optimizing Channels and Platforms
-Expand affiliate and social media partnerships: Increase affiliate partnerships or offer higher commissions to attract influential marketers, thereby enhancing brand reach.
-Improve the mobile app user experience: By making the mobile app more user-friendly, customers can make fewer efforts to purchase products, thereby boosting sales.
-Region Growth Strategy
-Boost growth in APAC and LATAM: advertisements and promotions adapt to local culture to increase sales in APAC and LATAM.
-Focus on the high-performance market: Continue to allocate resources to North America and EMEA by catering to a broader range of customer groups and addressing their specific needs.
+### Maximizing Product Offering
+- Expanding highly performing products: Increase the variations of the highly performing products category, such as gaming monitors, the Nintendo Switch, and PlayStation.
+- Using a bundle sale: Pair unpopular products with high-performing ones, such as gaming monitors paired with a gaming mouse and a gaming headset.
+### Customer Growth and Retention
+- Introducing a loyalty programme: Target single-purchase customers with loyalty tier rewards and special offers to improve retention.
+- Revitalize customer acquisition: By expanding acquisition channels, including various social media platforms and partnerships with influencers and celebrities.
+### Optimizing Channels and Platforms
+- Expand affiliate and social media partnerships: Increase affiliate partnerships or offer higher commissions to attract influential marketers, thereby enhancing brand reach.
+- Improve the mobile app user experience: By making the mobile app more user-friendly, customers can make fewer efforts to purchase products, thereby boosting sales.
+### Region Growth Strategy
+- Boost growth in APAC and LATAM: advertisements and promotions adapt to local culture to increase sales in APAC and LATAM.
+- Focus on the high-performance market: Continue to allocate resources to North America and EMEA by catering to a broader range of customer groups and addressing their specific needs.
 ## Clarifying Questions, Assumptions, and Caveats
-Questions for stakeholders
-USD_PRICE missing or showing $0
+### Questions for stakeholders
+- USD_PRICE missing or showing $0
  How is the USD_PRICE data collected and recorded in the system?
 If USD_PRICE is missing, can it be derived from another field (e.g., local currency + exchange rate)?
 Are $0 test transactions, free promotions, or data errors that should be excluded from analysis?
 How should we handle orders with a $ 0 value in our metrics? Should they be excluded from AOV calculations since they may distort averages?
 Are there default prices or historical averages we can use to fill gaps?
 
-Missing COUNTRY_CODE
+- Missing COUNTRY_CODE
 Are there alternative fields (e.g., shipping_zip, billing_country) that could help infer missing country codes?
 Is there a priority list of high-value countries where missing data is most problematic?
 Assumptions and Caveats
