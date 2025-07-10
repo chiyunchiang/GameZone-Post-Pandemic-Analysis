@@ -16,7 +16,7 @@
 
 [Reccomandations](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#reccomandations)
 
-Clarifying Questions, Assumptions, and Caveats
+[Clarifying Questions, Assumptions, and Caveats](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#clarifying-questions-assumptions-and-caveats)
 
 
 ## Project Background
