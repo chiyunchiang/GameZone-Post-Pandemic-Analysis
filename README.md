@@ -1,12 +1,20 @@
 # GameZone-Post-Pandemic-Analysis
 Table of Contents
+
 Project Background
+
 Executive Summary
+
 Sales Trend and Growth Rate
+
 Key Product Performance
+
 Customer Growth Rate and Repeat Purchase Trend
+
 Sales by Platforms and Channels
+
 Reccomandations
+
 Clarifying Questions, Assumptions, and Caveats
 
 
