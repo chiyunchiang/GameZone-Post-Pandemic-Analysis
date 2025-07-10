@@ -15,6 +15,7 @@ Based on the provided sales data, GameZone is a global e-commerce company specia
 
 ## Executive Summary
 Between 2019 and 2021, GameZone completed 21,000 orders, generating an average annual revenue of $2 million. North America (NA) and EMEA contributed 83% of the revenue, with the Nintendo Switch being the most popular product from GameZone, accounting for nearly 48% of the total orders.
+
 Order numbers and sales increased steadily from 2019 to 2020, reaching a record high in the fourth quarter of 2020. However, they decreased significantly after 2021.
 Despite the rapid decline in 2021, the percentage of repeat customers increased by 7%. GameZone can increase its profits by expanding its top product line, optimizing bundling, and introducing loyalty programs, thereby significantly enhancing customer lifetime value. This strategy can instill hope in the sales and marketing teams about the potential for customer retention. Targeting the growth of APAC and LATAM markets, and improving the mobile App use will further bolster GameZone's market position.
 
