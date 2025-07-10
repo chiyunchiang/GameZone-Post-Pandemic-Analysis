@@ -64,7 +64,7 @@ Despite the rapid decline in 2021, the percentage of repeat customers increased 
 ## Clarifying Questions, Assumptions, and Caveats
 ### Questions for stakeholders
 #### USD_PRICE missing or showing $0
-- How is the USD_PRICE data collected and recorded in the system?
+- How is the 'USD_PRICE' data collected and recorded in the system?
 - If USD_PRICE is missing, can it be derived from another field (e.g., local currency + exchange rate)?
 - Are $0 test transactions, free promotions, or data errors that should be excluded from analysis?
 - How should we handle orders with a $ 0 value in our metrics? Should they be excluded from AOV calculations since they may distort averages?
