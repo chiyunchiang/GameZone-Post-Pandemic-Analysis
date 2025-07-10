@@ -8,7 +8,7 @@
 
 [Sales Trend and Growth Rate](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#sales-trend-and-growth-rate)
 
-Key Product Performance
+[Key Product Performance](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#key-product-performance)
 
 Customer Growth Rate and Repeat Purchase Trend
 
