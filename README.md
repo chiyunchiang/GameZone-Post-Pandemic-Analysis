@@ -10,7 +10,7 @@
 
 [Key Product Performance](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#key-product-performance)
 
-Customer Growth Rate and Repeat Purchase Trend
+[Customer Growth Rate and Repeat Purchase Trend](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#customer-growth-rate-and-repeat-purchase-trend)
 
 Sales by Platforms and Channels
 
