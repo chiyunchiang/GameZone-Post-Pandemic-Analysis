@@ -6,7 +6,7 @@
 
 [Executive Summary](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#executive-summary)
 
-Sales Trend and Growth Rate
+[Sales Trend and Growth Rate](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#sales-trend-and-growth-rate)
 
 Key Product Performance
 
