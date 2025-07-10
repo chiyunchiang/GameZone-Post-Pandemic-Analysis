@@ -4,7 +4,7 @@
 [Project Background](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#project-background)
 
 
-Executive Summary
+[Executive Summary](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#executive-summary)
 
 Sales Trend and Growth Rate
 
