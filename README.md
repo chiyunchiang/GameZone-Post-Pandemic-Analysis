@@ -63,18 +63,18 @@ Despite the rapid decline in 2021, the percentage of repeat customers increased 
 - Focus on the high-performance market: Continue to allocate resources to North America and EMEA by catering to a broader range of customer groups and addressing their specific needs.
 ## Clarifying Questions, Assumptions, and Caveats
 ### Questions for stakeholders
-#### USD_PRICE missing or showing $0
+#### `USD_PRICE` missing or showing $0
 - How is the `USD_PRICE` data collected and recorded in the system?
-- If USD_PRICE is missing, can it be derived from another field (e.g., local currency + exchange rate)?
+- If `USD_PRICE` is missing, can it be derived from another field (e.g., local currency + exchange rate)?
 - Are $0 test transactions, free promotions, or data errors that should be excluded from analysis?
 - How should we handle orders with a $ 0 value in our metrics? Should they be excluded from AOV calculations since they may distort averages?
 - Are there default prices or historical averages we can use to fill gaps?
 
-#### Missing COUNTRY_CODE
-- Are there alternative fields (e.g., shipping_zip, billing_country) that could help infer missing country codes?
+#### Missing `COUNTRY_CODE`
+- Are there alternative fields (e.g., `shipping_zip`, `billing_country`) that could help infer missing country codes?
 - Is there a priority list of high-value countries where missing data is most problematic?
   
 ### Assumptions and Caveats
-- Duplicates within ORDER_ID: There are 145 duplicate rows for ORDER_ID. Could delete duplicates if needed, but the volume is low.
-- SHIP_TS earlier than PURCHASE_TS: The time zones may be mismatched between SHIP_TS and PURCHASE_TS, or this discrepancy could be due to pre-orders, backorders, or data-entry errors. It should be monitored when the issue recurs.
+- Duplicates within `ORDER_ID`: There are 145 duplicate rows for `ORDER_ID`. Could delete duplicates if needed, but the volume is low.
+- `SHIP_TS` earlier than `PURCHASE_TS`: The time zones may be mismatched between `SHIP_TS` and `PURCHASE_TS`, or this discrepancy could be due to pre-orders, backorders, or data-entry errors. It should be monitored when the issue recurs.
 
