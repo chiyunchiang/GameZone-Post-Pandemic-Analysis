@@ -1,5 +1,6 @@
 # GameZone-Post-Pandemic-Analysis
-##Table of Contents
+## Table of Contents
+
 [Project Background](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#project-background)
 
 
