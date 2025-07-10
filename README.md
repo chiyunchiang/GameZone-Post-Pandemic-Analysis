@@ -12,7 +12,7 @@
 
 [Customer Growth Rate and Repeat Purchase Trend](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#customer-growth-rate-and-repeat-purchase-trend)
 
-Sales by Platforms and Channels
+[Sales by Platforms and Channels](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/README.md#sales-by-platforms-and-channels)
 
 Reccomandations
 
