@@ -20,11 +20,11 @@ Order numbers and sales increased steadily from 2019 to 2020, reaching a record 
 Despite the rapid decline in 2021, the percentage of repeat customers increased by 7%. GameZone can increase its profits by expanding its top product line, optimizing bundling, and introducing loyalty programs, thereby significantly enhancing customer lifetime value. This strategy can instill hope in the sales and marketing teams about the potential for customer retention. Targeting the growth of APAC and LATAM markets, and improving the mobile App use will further bolster GameZone's market position.
 
 ## Sales Trend and Growth Rate
-GameZone averages $2 million in annual sales and  7,200 orders a year.
-Sales surged in 2020 due to the pandemic, but declined by 87% by 2021.
-Before 2021, GameZone exhibited seasonality, with sales spikes in November and December and decreases in February and October.
-After March 2021, when most physical stores reopened, sales decreased and remained low every month.
-NA and EMEA contributed 80% of the sales, with NA having more than half of the sales.
+-GameZone averages $2 million in annual sales and  7,200 orders a year.
+-Sales surged in 2020 due to the pandemic, but declined by 87% by 2021.
+-Before 2021, GameZone exhibited seasonality, with sales spikes in November and December and decreases in February and October.
+-After March 2021, when most physical stores reopened, sales decreased and remained low every month.
+-NA and EMEA contributed 80% of the sales, with NA having more than half of the sales.
 ## Key Product Performance
 Sales of most products increased during the pandemic. The PlayStation 5 Bundle increased by 364%, and the Lenovo IdeaPad by 207%.
 The gaming monitor, Nintendo Switch, PlayStation 5 Bundle, and Lenovo IdeaPad contributed 97% of the sales.
