@@ -83,4 +83,6 @@ Despite the rapid decline in 2021, the percentage of repeat customers increased 
 ### Assumptions and Caveats
 - Duplicates within `ORDER_ID`: There are 145 duplicate rows for `ORDER_ID`. Could delete duplicates if needed, but the volume is low.
 - `SHIP_TS` earlier than `PURCHASE_TS`: The time zones may be mismatched between `SHIP_TS` and `PURCHASE_TS`, or this discrepancy could be due to pre-orders, backorders, or data-entry errors. It should be monitored when the issue recurs.
+##
+- See the [raw data](https://1drv.ms/x/c/f6c17b3dae452049/EUxIiE3x9AhGk9sIMOFVc0wBdbBC6wjh59JofJwQKzbYFw?e=P9La4W) and how I clean the data. 
 
