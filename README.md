@@ -42,7 +42,7 @@ Despite the rapid decline in 2021, the percentage of repeat customers increased 
 - The Nintendo Switch accounts for 48% of the order numbers.
 - The gaming monitor accounts for 1.9 million (32%) of sales.
 - Due to the price. The PlayStation 5 Bundle contributed 1.5 million (26%) to sales, accounting for only 4% of the order numbers. JBL Headset accounts for 20% of the order numbers, with only 2% of the total sales.
-  ![image alt](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/28ba27d61202419bfc6b48e0c2208cf30e5e145c/product%20performance.png)
+  ![image alt](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/aa6c6e17f45e10f3db00404408ca4ae8098975ca/product%20performance.png)
 ## Customer Growth Rate and Repeat Purchase Trend
 - GameZone's unique customers reached their peak of 12,000 in 2020, then decreased to 1500 in 2021.
 - The repeat customer percentage decreased by 1% from 2019 to 2020 and then surged to 15% in 2021.
