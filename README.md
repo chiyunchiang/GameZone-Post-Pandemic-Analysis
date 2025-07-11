@@ -35,20 +35,25 @@ Despite the rapid decline in 2021, the percentage of repeat customers increased 
 - Before 2021, GameZone exhibited seasonality, with sales spikes in November and December and decreases in February and October.
 - After March 2021, when most physical stores reopened, sales decreased and remained low every month.
 - NA and EMEA contributed 80% of the sales, with NA having more than half of the sales.
+- ![image alt](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/28ba27d61202419bfc6b48e0c2208cf30e5e145c/Sales%20trend%20and%20grwoth%20rate.JPEG)
 ## Key Product Performance
 - Sales of most products increased during the pandemic. The PlayStation 5 Bundle increased by 364%, and the Lenovo IdeaPad by 207%.
 - The gaming monitor, Nintendo Switch, PlayStation 5 Bundle, and Lenovo IdeaPad contributed 97% of the sales.
 - The Nintendo Switch accounts for 48% of the order numbers.
 - The gaming monitor accounts for 1.9 million (32%) of sales.
 - Due to the price. The PlayStation 5 Bundle contributed 1.5 million (26%) to sales, accounting for only 4% of the order numbers. JBL Headset accounts for 20% of the order numbers, with only 2% of the total sales.
+- ![image alt](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/28ba27d61202419bfc6b48e0c2208cf30e5e145c/product%20performance.png)
 ## Customer Growth Rate and Repeat Purchase Trend
 - GameZone's unique customers reached their peak of 12,000 in 2020, then decreased to 1500 in 2021.
 - The repeat customer percentage decreased by 1% from 2019 to 2020 and then surged to 15% in 2021.
 - 2021 had the lowest number (1,500) of unique customers but also the highest repeat customer percentage (15%).
+- ![image alt](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/28ba27d61202419bfc6b48e0c2208cf30e5e145c/unique%20customers.png)
 ## Sales by Platforms and Channels
 - The direct channel accounts for 85% (5.1 million) of the sales.
 - The affiliate channel has the highest AOV ($319), whereas the email channel has the lowest at $187.
 - The website accounts for 98% (5.9 million) of the sales, with AOV($303), while the app has 2% of total sales and AOV($74).
+- ![image alt](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/28ba27d61202419bfc6b48e0c2208cf30e5e145c/Marketing%20channels.png)
+- ![image alt](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/28ba27d61202419bfc6b48e0c2208cf30e5e145c/purchase%20platform.png)
 ## Reccomandations
 ### Maximizing Product Offering
 - Expanding highly performing products: Increase the variations of the highly performing products category, such as gaming monitors, the Nintendo Switch, and PlayStation.
