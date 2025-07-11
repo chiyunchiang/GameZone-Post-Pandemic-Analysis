@@ -85,5 +85,6 @@ Despite the rapid decline in 2021, the percentage of repeat customers increased 
 - `SHIP_TS` earlier than `PURCHASE_TS`: The time zones may be mismatched between `SHIP_TS` and `PURCHASE_TS`, or this discrepancy could be due to pre-orders, backorders, or data-entry errors. It should be monitored when the issue recurs.
 ##
 - See the [raw data](https://1drv.ms/x/c/f6c17b3dae452049/EUxIiE3x9AhGk9sIMOFVc0wBdbBC6wjh59JofJwQKzbYFw?e=P9La4W) and how I clean the data.
-- 
+- See the [SQL queries](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/c4d4fab4f70d6ed5cf9d283b600776c639da967b/exploration.sql)
+- See the [data visualization](https://lookerstudio.google.com/reporting/017f7431-6a4d-4992-919f-99334429db70/page/p_8oxaic0ktd) 
 
