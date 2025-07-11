@@ -27,7 +27,7 @@ Between 2019 and 2021, GameZone completed 21,000 orders, generating an average a
 Order numbers and sales increased steadily from 2019 to 2020, reaching a record high in the fourth quarter of 2020. However, they decreased significantly after 2021.
 Despite the rapid decline in 2021, the percentage of repeat customers increased by 7%. GameZone can increase its profits by expanding its top product line, optimizing bundling, and introducing loyalty programs, thereby significantly enhancing customer lifetime value. This strategy can instill hope in the sales and marketing teams about the potential for customer retention. Targeting the growth of APAC and LATAM markets, and improving the mobile App use will further bolster GameZone's market position.
 
-![quick_dbd]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/cd4d7c741bc1006e69e389c66ca0638a1c9b79ec/QuickDBD-GameZone%20Orders.png))
+![quick_dbd]([[https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/cd4d7c741bc1006e69e389c66ca0638a1c9b79ec/QuickDBD-GameZone%20Orders.png)](https://github.com/chiyunchiang/GameZone-Post-Pandemic-Analysis/blob/main/QuickDBD-GameZone%20Orders.png?raw=true))
 
 ## Sales Trend and Growth Rate
 - GameZone averages $2 million in annual sales and  7,200 orders a year.
